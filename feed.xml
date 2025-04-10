@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Narrow Code</title>
+    <link href="https://narrowcode.org/feed.xml" rel="self" />
+    <link href="https://narrowcode.org" />
+    <updated>2025-04-10T11:12:08-04:00</updated>
+    <author>
+        <name>Matthew McCaughey</name>
+    </author>
+    <id>https://narrowcode.org</id>
+
+    <entry>
+        <title>Genesis of Narrow Code Web</title>
+        <author>
+            <name>Matthew McCaughey</name>
+        </author>
+        <link href="https://narrowcode.org/genesis-of-narrow-code-web/"/>
+        <id>https://narrowcode.org/genesis-of-narrow-code-web/</id>
+
+        <updated>2025-04-10T11:12:08-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Welcome to the official launch of Narrow Code—our very own corner of the digital world. Today marks the beginning of something special, and we're thrilled&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="" data-start="120" data-end="320">Welcome to the official launch of <strong data-start="154" data-end="169">Narrow Code</strong>—our very own corner of the digital world. Today marks the beginning of something special, and we're thrilled to invite you to join us on this journey.</p>
+<p class="" data-start="322" data-end="618">The <strong data-start="326" data-end="341">Narrow Code</strong> website is not just about showcasing our work; it's about the stories, creativity, and passion behind everything we do. From mobile apps and games to network engineering and game design, our team is built on diverse expertise that we bring together to create something unique.</p>
+<p class="" data-start="620" data-end="888">At <strong data-start="623" data-end="638">Narrow Code</strong>, you'll find content from each of our authors, offering insights into their respective fields. Whether you're here to explore game development, network engineering, or the creativity behind our projects, you'll find something to spark your interest.</p>
+<p class="" data-start="890" data-end="1160">This site is the start of a new chapter for us, and while it may be humble at first, we're excited to see where it leads. We hope to build a space where you can follow along with our progress, learn from our experiences, and maybe even collaborate with us down the line.</p>
+<p class="" data-start="1162" data-end="1223">Thank you for visiting, and stay tuned for the journey ahead!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
